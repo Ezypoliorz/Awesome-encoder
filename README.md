@@ -6,4 +6,5 @@ It uses an affine function (a*x+b) :
 - x = The index in the alphabet of each letter of the original message
 - a = 3 (or any number prime with 26)
 - b = the length of each word
+
 This means that every word of the message is encrypted differently !
